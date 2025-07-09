@@ -1,0 +1,3 @@
+[submodule "resources/portfolio-resources"]
+	path = resources/portfolio-resources
+	url = https://github.com/ProgrammingHero1/portfolio-resources.git
